@@ -1,7 +1,7 @@
 # spboot-chassis demo
 This application was created as an introduction to
 [spboot-chassis](https://github.com/renatols-jf/spboot-chassis).
-It aims to give a brief display of several of the `spboot-chassis` features.
+It aims to give a brief display of several of the `spboot-chassis` features. Based on version 0.0.2
 
 # Usage
 This is a standard Spring Boot application. It provides a few HTTP
